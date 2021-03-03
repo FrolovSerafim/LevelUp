@@ -576,7 +576,7 @@ button:focus {
 		justify-content: center;
 	}
 	.back {
-		width: unset;
+		width: 300px;
 		border-radius: 0;
 	}
 	.promo-img img {
